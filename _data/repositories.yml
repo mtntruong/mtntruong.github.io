@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mtntruong
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mtntruong/LRT-HDR
+  - mtntruong/entropy-otsu
+  - mtntruong/maritime-defog
+  - mtntruong/saliency-histogram
