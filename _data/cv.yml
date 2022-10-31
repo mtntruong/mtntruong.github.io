@@ -6,7 +6,7 @@
     - name: Year of Birth
       value: 1992
     - name: Languages
-      value: Vietnamese, English
+      value: Vietnamese (native), English (good), Korean (poor)
 
 - title: Education
   type: time_table

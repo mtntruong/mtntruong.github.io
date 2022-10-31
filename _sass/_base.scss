@@ -266,6 +266,76 @@ blockquote {
   }
 }
 
+.gs-icon {
+    background: rgb(80, 134, 236);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+
+    &:hover {
+        background: lighten(rgb(80, 134, 236), 20%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-decoration: none;
+    }
+}
+
+.gh-icon {
+    color: rgb(37, 41, 46);
+    background: rgb(37, 41, 46);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+
+    &:hover {
+        color: lighten(rgb(37, 41, 46), 20%);
+        background: lighten(rgb(37, 41, 46), 20%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-decoration: none;
+    }
+}
+
+.oc-icon {
+    color: rgb(166, 206, 57);
+    background: rgb(166, 206, 57);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+
+    &:hover {
+        color: lighten(rgb(166, 206, 57), 20%);
+        background: lighten(rgb(166, 206, 57), 20%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-decoration: none;
+    }
+}
+
+.rg-icon {
+    color: rgb(0, 204, 187);
+    background: rgb(0, 204, 187);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+
+    &:hover {
+        color: lighten(rgb(0, 204, 187), 20%);
+        background: lighten(rgb(0, 204, 187), 20%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-decoration: none;
+    }
+}
+
 
 // Footer
 footer.fixed-bottom {
