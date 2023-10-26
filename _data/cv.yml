@@ -6,7 +6,7 @@
     - name: Year of Birth
       value: 1992
     - name: Languages
-      value: Vietnamese (native), English (good), Korean (poor)
+      value: Vietnamese (native), English (good), Korean (basic)
 
 - title: Education
   type: time_table
@@ -22,6 +22,8 @@
   type: list
   contents:
     - Model-based deep learning
+    - Low-rank methods
+    - Low-rank structures
     - Image processing
     - Image restoration
     - Computer vision
