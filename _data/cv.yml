@@ -11,6 +11,9 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Multimedia Engineering
+      institution: Dongguk University, Seoul, South Korea
+      year: 2024
     - title: M.Sc. in Electrical, Electronic, and Control Engineering
       institution: Hankyong National University, Anseong, South Korea
       year: 2017
@@ -36,5 +39,6 @@
   contents:
     - Multimedia Tools and Applications
     - Journal of Visual Communication and Image Representation
+    - Journal of Supercomputing
     - Expert Systems With Applications
     - ICT Express
