@@ -22,23 +22,16 @@
       year: 2014
 
 - title: Academic Interests
-  type: list
+  type: time_table
   contents:
-    - Model-based deep learning
-    - Low-rank methods
-    - Low-rank structures
-    - Image processing
-    - Image restoration
-    - Computer vision
-    - Computational imaging
-    - Optimization
-    - Mathematical models
+    - year: Computer Science
+      institution: Model-based deep learning, Computer vision, Computational imaging, Image processing, Image restoration
+    - year: Mathematics
+      institution: Low-rank structures, Low-rank methods, Numerical methods, Optimization, Mathematical models
 
 - title: Reviewer
   type: list
   contents:
-    - Multimedia Tools and Applications
-    - Journal of Visual Communication and Image Representation
-    - Journal of Supercomputing
-    - Expert Systems With Applications
-    - ICT Express
+    - Several Springer's journals
+    - Several Elsevier's journals
+    - A few IEEE's journals
