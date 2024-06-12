@@ -5,7 +5,7 @@ https://github.com/alshedivat/al-folio
 https://mtntruong.github.io
 
 ```
+$ bundle config set --local path 'vendor/bundle'
 $ bundle install
-$ pip install jupyter
 $ bundle exec jekyll serve --lsi
 ```
