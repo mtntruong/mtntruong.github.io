@@ -39,4 +39,4 @@
 - title: Color Scheme
   type: none
   contents: >
-    <table><tr><td><img src="kotomi.png" width="180" height="180" alt="Kotomi"/></td> <td><img src="nozomi.png" width="180" height="180" alt="Nozomi"/></td> <td><img src="fern.jpg" width="180" height="180" alt="Fern"/></td> <td><img src="ei.jpg" width="180" height="180" alt="Ei"/></td></tr></table>
+    <table><tr><td><img src="kotomi.png" alt="Kotomi"/></td> <td><img src="nozomi.png" alt="Nozomi"/></td> <td><img src="fern.jpg" alt="Fern"/></td> <td><img src="ei.jpg" alt="Ei"/></td></tr></table>
