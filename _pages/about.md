@@ -6,10 +6,10 @@ subtitle: a.k.a Truong Thanh Nhat Mai
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><center>Truong and his lab</center></p>
+    <p><center>have a nice day</center></p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
