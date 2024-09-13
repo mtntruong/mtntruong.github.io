@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 He was born Vietnamese and is currently living in South Korea. His research interests include, but are not limited to, model-based deep learning, machine learning paradigms, and mathematical modeling.
 
-He is happy to answer questions regarding his research. He can be reached via <i>birg<!---crapcrap--->my6bu@moz<!---crapcrap--->mail.com</i> (this is a masked email address to fight bots, he will reply using his real email, sorry for the inconvenience).
+He is happy to answer questions regarding his research. He can be reached via `birgmy6bu [the at sign] mozmail [the dot] com` (this is a masked email address to fight bots, he will reply using his real email, sorry for the inconvenience). Or you can open an issue on the GitHub repository of the research in question.
 
 His current time is {::nomarkdown} <div id="contentframe" style="position:relative; top: -37px; left: 120px;"> <iframe src="https://free.timeanddate.com/clock/i9j8c5rj/n235/tct/pct/tt0/tw0/tm1/ts1/ta1/tb2" frameborder="0" width="200" height="19" allowtransparency="true"></iframe></div> {:/}
