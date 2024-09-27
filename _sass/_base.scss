@@ -1,6 +1,7 @@
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+ @use "sass:color";
 
 // Typography
 
@@ -274,7 +275,7 @@ blockquote {
     display: initial;
 
     &:hover {
-        background: lighten(rgb(80, 134, 236), 20%);
+        background: color.adjust(rgb(80, 134, 236), $lightness: 20%);
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -291,8 +292,8 @@ blockquote {
     display: initial;
 
     &:hover {
-        color: lighten(rgb(37, 41, 46), 20%);
-        background: lighten(rgb(37, 41, 46), 20%);
+        color: color.adjust(rgb(37, 41, 46), $lightness: 20%);
+        background: color.adjust(rgb(37, 41, 46), $lightness: 20%);
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -309,8 +310,8 @@ blockquote {
     display: initial;
 
     &:hover {
-        color: lighten(rgb(166, 206, 57), 20%);
-        background: lighten(rgb(166, 206, 57), 20%);
+        color: color.adjust(rgb(166, 206, 57), $lightness: 20%);
+        background: color.adjust(rgb(166, 206, 57), $lightness: 20%);
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -327,8 +328,8 @@ blockquote {
     display: initial;
 
     &:hover {
-        color: lighten(rgb(0, 204, 187), 20%);
-        background: lighten(rgb(0, 204, 187), 20%);
+        color: color.adjust(rgb(0, 204, 187), $lightness: 20%);
+        background: color.adjust(rgb(0, 204, 187), $lightness: 20%);
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;

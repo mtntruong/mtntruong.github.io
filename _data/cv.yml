@@ -22,7 +22,7 @@
       year: 2014
 
 - title: Academic Interests
-  type: time_table
+  type: time_table_long
   contents:
     - year: Computer Science
       institution: Model-based deep learning, Computer vision, Computational imaging, Image processing, Image restoration
