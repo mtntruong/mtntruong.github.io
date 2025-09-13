@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: a.k.a Truong Thanh Nhat Mai
+subtitle:
 
 profile:
   align: right

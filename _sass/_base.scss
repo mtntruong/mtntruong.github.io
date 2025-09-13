@@ -337,6 +337,24 @@ blockquote {
     }
 }
 
+.or-icon {
+    color: rgb(140, 27, 19);
+    background: rgb(140, 27, 19);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+
+    &:hover {
+        color: color.adjust(rgb(140, 27, 19), $lightness: 20%);
+        background: color.adjust(rgb(140, 27, 19), $lightness: 20%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-decoration: none;
+    }
+}
+
 
 // Footer
 footer.fixed-bottom {

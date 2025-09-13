@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Truong Mai
+title: M. T. N. TRUONG
 first_name: Mai
 middle_name: Thanh Nhat
 last_name: Truong
@@ -91,6 +91,7 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
+openreview_id: Mai_Thanh_Nhat_Truong1 # your open review profile
 
 contact_note: >
   You may also find him in the above social sites
