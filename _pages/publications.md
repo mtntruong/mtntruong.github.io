@@ -9,7 +9,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 <p>
-  My name was changed in some publications for aesthetic reasons.
+  Truong's name was altered in some publications for aesthetic reasons.
   <br>
   For accurate citations, please refer to the publishers' data.
 </p>
