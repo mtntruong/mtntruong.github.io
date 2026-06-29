@@ -25,7 +25,7 @@
   type: time_table_long
   contents:
     - year: Computer Science
-      institution: Model-based deep learning, Computer vision, Computational imaging, Image processing, Image restoration
+      institution: Physics-informed deep learning, Physical AI, Computer vision, Computational imaging, Image processing, Image restoration
     - year: Mathematics
       institution: Low-rank structures, Low-rank methods, Numerical methods, Optimization, Mathematical models
 
