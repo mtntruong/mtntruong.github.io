@@ -4,7 +4,7 @@
     - name: Full Name
       value: Mai Thanh Nhat Truong
     - name: Languages
-      value: Vietnamese (native), English (good), Korean (basic)
+      value: Vietnamese (native), English (fluent), Korean (intermediate)
     - name: Profession
       value: Industrial AI Researcher
 
@@ -35,6 +35,7 @@
     - Several Springer's journals
     - Several Elsevier's journals
     - A few IEEE's journals
+    - AAAI26, AAAI27
 
 - title: Purpurea Plena Elegans
   type: none
